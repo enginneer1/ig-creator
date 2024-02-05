@@ -5,4 +5,5 @@ Instagram accounts registration
 - auto follow, like ,comment ,report
 - request cookies (csrf,xcsrf,mid,ig_did)
 - need Proxies
-- Contact: https://t.me/enginneer1 
+- Contact: https://t.me/enginneer1
+
