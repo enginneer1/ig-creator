@@ -6,3 +6,4 @@ Instagram accounts registration
 - request cookies (csrf,xcsrf,mid,ig_did)
 - need Proxies
 - Contact: https://t.me/enginneer1
+- 25$
